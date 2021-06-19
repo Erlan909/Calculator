@@ -1,0 +1,38 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    margin-left: 7%;
+    margin-top: 30px;
+}
+.obshi{
+    box-shadow: -1px 1px 3px 1px;
+    width: 247px;
+    height: 310px;
+}
+
+#name {
+    width: 170px;
+    margin-top: 10px;
+    height: 25px;
+    box-shadow: 1px 0 2px 1px;
+}
+.but{
+    width: 65px;
+    height: 25px;
+    background-color: rgb(168, 228, 168);
+    cursor: pointer;
+    color: coral;
+    border-radius: 5px;
+}
+.first {
+    width: 45px;
+    height: 30px;
+    cursor: pointer;
+    margin-top: 7px;
+    border-radius: 5px;
+    color: coral;
+}
+.first:hover{
+    background-color: rgb(186, 203, 235);
+}
